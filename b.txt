@@ -2,3 +2,4 @@ line b1
 line b2
 line b4
 change b5
+line 6
